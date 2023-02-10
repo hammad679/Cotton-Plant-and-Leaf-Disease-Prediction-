@@ -1,5 +1,8 @@
-# Cotton-Plant-and-Leaf-Disease-Prediction-
+## Cotton-Plant-and-Leaf-Disease-Prediction-
 Used Transfer Learning for Classfication of Cotton Leaf and Plant Disease 
+
+
+## Used Trasnfer Learning Models 
 Used ResNet50 , InceptionV3 , ResNet152V2
 
 
